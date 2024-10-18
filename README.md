@@ -15,7 +15,9 @@ Usamos o Vs code;
 
 github.
 
-Membro da Equipe João Guilherme;
+Membro da Equipe 
+
+João Guilherme;
 
 João Sobral;
 
